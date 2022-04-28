@@ -1,0 +1,16 @@
+body {
+    background-color: #FAE5D3;
+    color: #1F618D;
+    font-family: calibri;
+    padding: 10px;
+}
+
+canvas {
+    border: solid 1px black;
+    overflow: scroll;
+}
+
+.interlineation {
+    display: inline-block;
+    margin-right: 10px;
+}
